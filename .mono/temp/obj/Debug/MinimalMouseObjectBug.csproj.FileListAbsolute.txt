@@ -1,0 +1,6 @@
+/Users/marisaclardy/src/github.com/MinimalMouseObjectBug/.mono/temp/bin/Debug/MinimalMouseObjectBug.dll
+/Users/marisaclardy/src/github.com/MinimalMouseObjectBug/.mono/temp/bin/Debug/MinimalMouseObjectBug.pdb
+/Users/marisaclardy/src/github.com/MinimalMouseObjectBug/.mono/temp/obj/Debug/MinimalMouseObjectBug.csprojAssemblyReference.cache
+/Users/marisaclardy/src/github.com/MinimalMouseObjectBug/.mono/temp/obj/Debug/MinimalMouseObjectBug.csproj.CoreCompileInputs.cache
+/Users/marisaclardy/src/github.com/MinimalMouseObjectBug/.mono/temp/obj/Debug/MinimalMouseObjectBug.dll
+/Users/marisaclardy/src/github.com/MinimalMouseObjectBug/.mono/temp/obj/Debug/MinimalMouseObjectBug.pdb
